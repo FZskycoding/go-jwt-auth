@@ -1,0 +1,5 @@
+jwt.db
+.env
+*.exe
+*.test
+*.out
